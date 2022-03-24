@@ -8,3 +8,6 @@ This source code explores concepts in computer graphics such as:
 4. Camera Transforms
 5. Ray Tracing
 6. Shading
+
+## Ident Folder:
+Contains rendered frames using engine properties.
